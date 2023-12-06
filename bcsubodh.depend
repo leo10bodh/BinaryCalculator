@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1643548597 source:c:\users\dell\onedrive\desktop\bcsubodh\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"list.h"
+	"function.h"
+
+1643548893 c:\users\dell\onedrive\desktop\bcsubodh\list.h
+
+1643548944 c:\users\dell\onedrive\desktop\bcsubodh\function.h
+
+1643548697 source:c:\users\dell\onedrive\desktop\bcsubodh\istack.c
+	<stdlib.h>
+	"istack.h"
+
+1643548836 c:\users\dell\onedrive\desktop\bcsubodh\istack.h
+	"list.h"
+
+1643548756 source:c:\users\dell\onedrive\desktop\bcsubodh\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1643548511 source:c:\users\dell\onedrive\desktop\bcsubodh\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"istack.h"
+	"function.h"
+	<limits.h>
+
+1643548597 source:d:\tempo destop\bcsubodh\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"list.h"
+	"function.h"
+
+1643548893 d:\tempo destop\bcsubodh\list.h
+
+1643548944 d:\tempo destop\bcsubodh\function.h
+
+1643548697 source:d:\tempo destop\bcsubodh\istack.c
+	<stdlib.h>
+	"istack.h"
+
+1643548836 d:\tempo destop\bcsubodh\istack.h
+	"list.h"
+
+1643548756 source:d:\tempo destop\bcsubodh\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1643548511 source:d:\tempo destop\bcsubodh\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"istack.h"
+	"function.h"
+	<limits.h>
+
